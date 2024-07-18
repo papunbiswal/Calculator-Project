@@ -45,3 +45,26 @@
 .navigation .link-active{
     font-weight: bold;
 }
+
+/*Header*/
+.hero{
+    padding: 2rem;
+    padding-top: 5rem;
+}
+
+.hero .hero-img{
+    max-width: 80%;
+    width: 550px;
+    display: block;
+    margin: auto;
+}
+
+.hero .hero-heading{
+    text-align: center;
+    padding: 1rem;
+    color: var(--primary-color);
+}
+
+.hero .hero-heading .hero-inverted{
+    color: var(--off-yellow);
+}
